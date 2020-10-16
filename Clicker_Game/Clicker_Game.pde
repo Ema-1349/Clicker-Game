@@ -3,9 +3,6 @@
 //Block 1-1B
 
 
-//PROBLEMS: 
-// 1, NONE of the TACTILES on the PAUSE page work. This includes the exit button, and the continue button
-
 
 ///     Imported Music     ///
 import ddf.minim.*;
